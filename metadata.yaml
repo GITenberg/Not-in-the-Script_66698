@@ -1,0 +1,27 @@
+_repo: Not-in-the-Script_66698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marmor, Arnold
+    birthdate: 1927
+    deathdate: 1978
+    gutenberg_agent_id: '34572'
+    url: http://www.gutenberg.org/2009/agents/34572
+description: ''
+gutenberg_issued: '2021-11-10'
+identifiers:
+  gutenberg: '66698'
+language: en
+pgterms:marc905: 20210313070156marmor
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Not in the Script
+url: http://www.gutenberg.org/ebooks/66698
