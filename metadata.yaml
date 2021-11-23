@@ -1,5 +1,8 @@
 _repo: Not-in-the-Script_66698
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66698-h/images/cover.jpg
 creator:
   author:
     agent_name: Marmor, Arnold
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '34572'
     url: http://www.gutenberg.org/2009/agents/34572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66698#Not-in-the-Script
 gutenberg_issued: '2021-11-10'
 identifiers:
   gutenberg: '66698'
